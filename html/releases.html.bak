@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html >
+<body style="background-image:url('img/back.png');background-color:black;">
+<img src="img\logo.gif" alt="evil logo" align="left" />
+<img src="img\logo.gif" alt="evil logo" align="right" />
+<br>
+<h1 style="color:#F0FFDB;text-align:center;font-size:50px;font-family:'Courier '">EVILLAMP RECORDS</h1>
+
+ <br>
+<nav>
+  <ul>
+   
+    <li style="text-align:center;font-size:22px;font-family:'Courier New'">
+	<a style="color:white;font-size:15px;" href="homepage.html">    HOME   </a>
+	 <br><br>
+	<a  style="color:white;font-size:15px;" href="bands.html"> BANDS   </a> 
+	 <br><br>
+	<a style="color:white;font-size:15px;" href="ordering.html">   ORDERING   </a> 
+	</li>
+   
+  </ul>
+</nav>
+
+
+ <br> <br>
+<p style="color:white;text-align:right;font-size:12px;font-family:'Courier New';border: 30px ; ";>   EVILLAMP is a Germany based Independent Underground Label<br><br>
+DIY to the Bone and only allowing Real music. No rap no trap no Bullshit<br> <br>check out our Upcoming release!! </p>
+  <img src="img\tapepic.png" alt="tape" align="right" style="text-align: center; width: 420px;height:200 ;border: 5px solid #616161; "; />
+  
+  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+  <p style="color:white;text-align:left;font-size:12px;font-family:'Courier New';border: 30px ; ";>   EVILLAMP is a Germany based Independent Underground Label<br><br>
+DIY to the Bone and only allowing Real music. No rap no trap no Bullshit<br> <br>check out our Upcoming release!! </p>
+  <img src="img\cdpic.png" alt="cd" align="left" style="text-align: center; width: 420px;height:200 ;border: 5px solid #616161; "; />
+  
+  </body>
+</html> 
